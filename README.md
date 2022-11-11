@@ -11,9 +11,9 @@ HOW TO RUN THE PROJECT:
 && credentials for an admin user (eyaladmin | 123)
 
 Project Features:
-shopping cart
-User profile
-products page
-Admin product management
-Admin user management
+shopping cart,
+User profile,
+products page,
+Admin product management,
+Admin user management,
 Checkout process(we take cash only)
